@@ -59,8 +59,7 @@ trading-bot/
     <h2>💡 Contributing</h2>
     <p>Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.</p>
     <h2>📜 License</h2>
-<img width="1589" alt="Screenshot 2024-11-24 194302" src="https://github.com/user-attachments/assets/12ac4fff-29df-482c-9379-86add1d313a3">
-
+<img width="920" alt="Screenshot 2024-11-25 005139" src="https://github.com/user-attachments/assets/e743facd-38d0-4211-8b14-d4398cc7e037">
 
 
     
