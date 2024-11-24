@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>🚀 Algorithmic Trading Bot</h1>
-    <p>An efficient and customizable trading bot designed to automate trading strategies in real-time. Suitable for both beginners and advanced developers, with a focus on flexibility, performance, and ease of integration.</p>
 
-    <h2>📝 Features</h2>
+<h1>🚀 Algorithmic Trading Bot</h1>
+<p>An efficient and customizable trading bot designed to automate trading strategies in real-time. Suitable for both beginners and advanced developers, with a focus on flexibility, performance, and ease of integration.</p>
+<h2>📝 Features</h2>
     <ul>
       <li><strong>Real-Time Market Analysis:</strong> Analyze live data streams from major exchanges.</li>
       <li><strong>Customizable Strategies:</strong> Implement your trading algorithms or use pre-built strategies.</li>
@@ -77,6 +67,3 @@ trading-bot/
 
     <h2>📜 License</h2>
     <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
-  </div>
-</body>
-</html>
