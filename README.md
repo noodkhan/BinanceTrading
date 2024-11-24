@@ -11,8 +11,8 @@
       <li><strong>Secure and Reliable:</strong> Encrypted API key storage and error handling.</li>
     </ul>
 
-    <h2>📂 Project Structure</h2>
-    <pre>
+<h2>📂 Project Structure</h2>
+<pre>
 trading-bot/
 ├── config/
 │   └── settings.json       # API keys, exchange details, trading parameters
@@ -30,22 +30,18 @@ trading-bot/
 │   └── utils.py            # Utility functions and helpers
 └── tests/
     └── test_bot.py         # Unit tests for core functionality
-    </pre>
+</pre>
 
-    <h2>⚙️ Installation and Setup</h2>
+<h2>⚙️ Installation and Setup</h2>
     <ol>
       <li><strong>Clone the Repository:</strong></li>
       <pre class="code-block">git clone https://github.com/username/trading-bot.git</pre>
-
       <li><strong>Install Dependencies:</strong></li>
       <pre class="code-block">pip install -r requirements.txt</pre>
-
       <li><strong>Configure Settings:</strong> Update <code>config/settings.json</code> with your API keys and preferences.</li>
-
       <li><strong>Run the Bot:</strong></li>
       <pre class="code-block">python src/bot.py</pre>
     </ol>
-
     <h2>🚦 Usage</h2>
     <ul>
       <li><strong>Backtest a Strategy:</strong></li>
@@ -53,7 +49,6 @@ trading-bot/
       <li><strong>Run in Live Mode:</strong></li>
       <pre class="code-block">python src/bot.py --live --strategy strategies/custom.py</pre>
     </ul>
-
     <h2>🚧 Roadmap</h2>
     <ul>
       <li>Add support for more exchanges</li>
@@ -61,9 +56,7 @@ trading-bot/
       <li>Improve error handling and recovery mechanisms</li>
       <li>Create a graphical user interface (GUI)</li>
     </ul>
-
     <h2>💡 Contributing</h2>
     <p>Contributions are welcome! Fork the repository, create a feature branch, and submit a pull request.</p>
-
     <h2>📜 License</h2>
     <p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details.</p>
